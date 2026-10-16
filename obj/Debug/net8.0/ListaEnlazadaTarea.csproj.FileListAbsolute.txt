@@ -1,0 +1,14 @@
+C:\Users\jairo\ListaEnlazadaTarea\bin\Debug\net8.0\ListaEnlazadaTarea.exe
+C:\Users\jairo\ListaEnlazadaTarea\bin\Debug\net8.0\ListaEnlazadaTarea.deps.json
+C:\Users\jairo\ListaEnlazadaTarea\bin\Debug\net8.0\ListaEnlazadaTarea.runtimeconfig.json
+C:\Users\jairo\ListaEnlazadaTarea\bin\Debug\net8.0\ListaEnlazadaTarea.dll
+C:\Users\jairo\ListaEnlazadaTarea\bin\Debug\net8.0\ListaEnlazadaTarea.pdb
+C:\Users\jairo\ListaEnlazadaTarea\obj\Debug\net8.0\ListaEnlazadaTarea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jairo\ListaEnlazadaTarea\obj\Debug\net8.0\ListaEnlazadaTarea.AssemblyInfoInputs.cache
+C:\Users\jairo\ListaEnlazadaTarea\obj\Debug\net8.0\ListaEnlazadaTarea.AssemblyInfo.cs
+C:\Users\jairo\ListaEnlazadaTarea\obj\Debug\net8.0\ListaEnlazadaTarea.csproj.CoreCompileInputs.cache
+C:\Users\jairo\ListaEnlazadaTarea\obj\Debug\net8.0\ListaEnlazadaTarea.dll
+C:\Users\jairo\ListaEnlazadaTarea\obj\Debug\net8.0\refint\ListaEnlazadaTarea.dll
+C:\Users\jairo\ListaEnlazadaTarea\obj\Debug\net8.0\ListaEnlazadaTarea.pdb
+C:\Users\jairo\ListaEnlazadaTarea\obj\Debug\net8.0\ListaEnlazadaTarea.genruntimeconfig.cache
+C:\Users\jairo\ListaEnlazadaTarea\obj\Debug\net8.0\ref\ListaEnlazadaTarea.dll
